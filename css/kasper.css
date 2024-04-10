@@ -759,7 +759,7 @@ video {
 .stats {
   padding-top: var(--system-up-padding);
   padding-bottom: var(--system-bottom-padding);
-  background-image: url(/images/stats-wallpaper.jpg);
+  background-image: url(images/stats-wallpaper.jpg);
   background-size: cover;
 }
 
@@ -982,7 +982,7 @@ video {
 .charcter-op {
   margin-top: 40px;
   position: relative;
-  background-image: url(/images/opinion-background.jpg);
+  background-image: url(images/opinion-background.jpg);
   background-size: cover;
   max-width: 100%;
   padding-top: var(--system-up-padding);
@@ -1134,7 +1134,7 @@ video {
 /* start email us  */
 .EmailUs {
   max-width: 100%;
-  background-image: url(/images/nature-7.jpg);
+  background-image: url(images/nature-7.jpg);
   background-size: cover;
   padding-top: var(--system-up-padding);
   padding-bottom: var(--system-bottom-padding);
@@ -1333,7 +1333,7 @@ form.actual-contact-form button[type="submit"] {
 /* end email us  */
 /* start footer  */
 .footer {
-  background-image: url("/images/nature-4.jpg");
+  background-image: url("images/nature-4.jpg");
   background-size: cover;
   padding-top: var(--system-up-padding);
   padding-bottom: 100px;
