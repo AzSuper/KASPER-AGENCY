@@ -40,7 +40,7 @@ setInterval(changeBackground, 4000);
 
 document.addEventListener("DOMContentLoaded", function () {
   const audio = new Audio(
-    "music/noRoots.mp3"
+    "../music/noRoots.mp3"
   );
   const playButton = document.querySelector(".play-btn");
   const stopButton = document.querySelector(".pause-btn");
