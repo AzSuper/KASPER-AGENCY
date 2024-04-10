@@ -982,7 +982,7 @@ video {
 .charcter-op {
   margin-top: 40px;
   position: relative;
-  background-image: url(images/opinion-background.jpg);
+  background-image: url("images/opinion-background.jpg");
   background-size: cover;
   max-width: 100%;
   padding-top: var(--system-up-padding);
