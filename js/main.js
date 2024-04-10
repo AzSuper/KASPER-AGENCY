@@ -40,7 +40,7 @@ setInterval(changeBackground, 4000);
 
 document.addEventListener("DOMContentLoaded", function () {
   const audio = new Audio(
-    "/music/Alice Merton - No Roots (Instrumental).mp3"
+    "music/Alice Merton - No Roots (Instrumental).mp3"
   );
   const playButton = document.querySelector(".play-btn");
   const stopButton = document.querySelector(".pause-btn");
